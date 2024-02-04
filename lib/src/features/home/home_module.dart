@@ -1,14 +1,14 @@
-import 'package:app_template/src/features/home/data/repository/home_repository.dart';
-import 'package:app_template/src/features/home/data/repository/home_repository_interface.dart';
-import 'package:app_template/src/features/home/domain/usecases/getUsers.dart';
+import 'package:instamaids_dashboard/src/features/home/data/repository/home_repository.dart';
+import 'package:instamaids_dashboard/src/features/home/data/repository/home_repository_interface.dart';
+import 'package:instamaids_dashboard/src/features/home/domain/usecases/getUsers.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
-import 'package:app_template/src/features/home/presentation/home_store.dart';
+import 'package:instamaids_dashboard/src/features/home/presentation/home_store.dart';
 
-import 'package:app_template/src/features/home/presentation/view.dart';
+import 'package:instamaids_dashboard/src/features/home/presentation/view.dart';
 
-import 'package:app_template/src/shared/infrastructure/http/custom_dio.dart';
-import 'package:app_template/src/shared/views/root_layout.dart';
+import 'package:instamaids_dashboard/src/shared/infrastructure/http/custom_dio.dart';
+import 'package:instamaids_dashboard/src/shared/views/root_layout.dart';
 
 class HomeModule extends Module {
   @override

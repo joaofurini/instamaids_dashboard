@@ -1,7 +1,7 @@
 import 'package:adaptive_components/adaptive_components.dart';
-import 'package:app_template/src/features/home/domain/model/propostas_model.dart';
-import 'package:app_template/src/features/home/domain/usecases/getUsers.dart';
-import 'package:app_template/src/features/home/presentation/home_store.dart';
+import 'package:instamaids_dashboard/src/features/home/domain/model/propostas_model.dart';
+import 'package:instamaids_dashboard/src/features/home/domain/usecases/getUsers.dart';
+import 'package:instamaids_dashboard/src/features/home/presentation/home_store.dart';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';

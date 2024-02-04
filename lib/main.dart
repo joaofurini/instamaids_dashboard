@@ -1,7 +1,7 @@
 import 'package:desktop_window/desktop_window.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
-import 'package:app_template/src/app_module.dart';
+import 'package:instamaids_dashboard/src/app_module.dart';
 import 'package:universal_platform/universal_platform.dart';
 
 import 'src/app.dart';

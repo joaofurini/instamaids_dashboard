@@ -1,4 +1,4 @@
-package com.example.app_template
+package com.example.instamaids_dashboard
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,5 +1,5 @@
-// import 'package:app_template/src/features/home/domain/model/propostas_model.dart';
-// import 'package:app_template/src/features/home/domain/usecases/getUsers.dart';
+// import 'package:instamaids_dashboard/src/features/home/domain/model/propostas_model.dart';
+// import 'package:instamaids_dashboard/src/features/home/domain/usecases/getUsers.dart';
 // import 'package:flutter_modular/flutter_modular.dart';
 // import 'package:mobx/mobx.dart';
 
@@ -21,8 +21,8 @@
 // }
 // }
 
-import 'package:app_template/src/features/home/domain/model/propostas_model.dart';
-import 'package:app_template/src/features/home/domain/usecases/getUsers.dart';
+import 'package:instamaids_dashboard/src/features/home/domain/model/propostas_model.dart';
+import 'package:instamaids_dashboard/src/features/home/domain/usecases/getUsers.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:mobx/mobx.dart';
 

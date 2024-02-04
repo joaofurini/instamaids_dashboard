@@ -1,6 +1,6 @@
 {
-    "name": "app_template",
-    "short_name": "app_template",
+    "name": "instamaids_dashboard",
+    "short_name": "instamaids_dashboard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

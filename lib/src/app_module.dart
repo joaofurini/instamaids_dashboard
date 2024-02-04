@@ -1,7 +1,7 @@
 import 'package:flutter_modular/flutter_modular.dart';
-import 'package:app_template/src/features/home/home_module.dart';
+import 'package:instamaids_dashboard/src/features/home/home_module.dart';
 
-import 'package:app_template/src/shared/infrastructure/http/custom_dio.dart';
+import 'package:instamaids_dashboard/src/shared/infrastructure/http/custom_dio.dart';
 
 class AppModule extends Module {
   @override

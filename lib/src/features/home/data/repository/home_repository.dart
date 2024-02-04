@@ -1,6 +1,6 @@
-import 'package:app_template/src/features/home/data/repository/home_repository_interface.dart';
-import 'package:app_template/src/features/home/domain/model/propostas_model.dart';
-import 'package:app_template/src/shared/infrastructure/http/custom_dio.dart';
+import 'package:instamaids_dashboard/src/features/home/data/repository/home_repository_interface.dart';
+import 'package:instamaids_dashboard/src/features/home/domain/model/propostas_model.dart';
+import 'package:instamaids_dashboard/src/shared/infrastructure/http/custom_dio.dart';
 import 'package:dio/dio.dart';
 
 class HomeRepository implements IHomeRepository {
